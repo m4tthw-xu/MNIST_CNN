@@ -64,7 +64,3 @@ A window will open where you can draw digits using the mouse. The model will cla
 - **`model.py`**: Contains code for loading and preprocessing the MNIST dataset, defining the CNN architecture, training the model, and saving it.
 - **`test_model.py`**: Contains code for loading the saved model, preprocessing images from a directory, and outputting predictions.
 - **`interactive_model.py`**: Contains code for creating an interactive drawing window, capturing mouse events, preprocessing the drawn digit, and displaying predictions in real-time.
-
-## Conclusion
-
-This project provides a comprehensive example of building and using a CNN for digit classification. It includes scripts for training, testing, and interactive use, demonstrating the versatility and power of deep learning models.
